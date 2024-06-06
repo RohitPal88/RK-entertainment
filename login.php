@@ -39,7 +39,7 @@ require_once ('global.php');
 <style>
     html,
 body {
-  height: 100%;
+  height: 101%;
 }
 
 body {
